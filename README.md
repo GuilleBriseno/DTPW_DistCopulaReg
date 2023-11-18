@@ -1,7 +1,7 @@
 # DTPW_DistCopulaReg
 This repository hosts the code used to create the pre-print: 
 
-"Bivariate distributional copula regression for mixed non- &amp; time-to-event responses".
+"Bivariate distributional copula regression for mixed non-time-to-event &amp; time-to-event responses".
 
 
 There are three main folders with the following contents: 
